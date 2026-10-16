@@ -117,6 +117,10 @@ A publicação do comentário é feita pelo próprio YouTube. O funcionamento e 
 
 Consulte o código-fonte do projeto para verificar as permissões, as requisições e o tratamento de dados implementados.
 
+## Celulares
+
+Para celulares, é recomendado baixar e usar o Kiwi Browser para enviar GIFs.
+
 ---
 
 # English 🇺🇸
@@ -195,6 +199,10 @@ YouTube handles the comment publication itself. The extension's operation and da
 
 Review the project source code to inspect the implemented permissions, network requests, and data handling.
 
+
+## Mobile Phones
+
+For mobile phones, it is recommended to download and use the Kiwi Browser to send GIFs.
 ---
 
 ## 🤝 Contributing
